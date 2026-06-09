@@ -2,7 +2,7 @@
 ## Notes-App
 A Notes App is an intuitive, lightweight, and efficient application designed to help users capture thoughts, organize ideas, and manage daily tasks in one centralized hub. It features seamless operations (Create, Read,  Delete) and a clean, user-friendly interface.
 
-# 📝 NoteSphere - Simple Notes App
+# 📝 NoteX - Simple Notes App
 
 A clean and responsive React-based note-taking web application that allows you to create, view, and delete personal notes. Data is persisted in the browser using `localStorage`.
 
