@@ -18,11 +18,6 @@ A clean and responsive React-based note-taking web application that allows you t
 - ✅ Empty state message
 - ✅ Real-time updates
 
-## 🚀 Live Demo
-
-<!-- Add your deployed link here -->
-[View Live Demo](https://your-deployed-link.vercel.app) <!-- e.g., Vercel, Netlify -->
-
 ## 🛠️ Technologies Used
 
 - **React.js** (with Functional Components + Hooks)
